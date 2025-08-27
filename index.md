@@ -3,10 +3,10 @@ layout: page
 ---
 
 <div class="page-header row">
-<div class="col-sm-2 prof-picture"><img src="{{site.baseurl}}/resources/moi3.png" title="photo"/></div>
-<div class="col-sm-10"><h1>Emmanuelle Saillard-Virouleau</h1></div>
-<div class="col-sm-10"><h4>Tenured research scientist (CRCN)</h4></div>
-<div class="col-sm-10"><h4> <a href="https://team.inria.fr/storm/" target="_blank">STORM</a> team, Inria of the university of Bordeaux</h4></div>
+<div class="col-sm-3 prof-picture"><img src="{{site.baseurl}}/resources/Inria-0525-012.png" title="photo"/></div>
+<div class="col-sm-9"><h1>Emmanuelle Saillard-Virouleau</h1></div>
+<div class="col-sm-9"><h4>Tenured research scientist (CRCN)</h4></div>
+<div class="col-sm-9"><h4> <a href="https://team.inria.fr/storm/" target="_blank">STORM</a> team, Inria of the university of Bordeaux</h4></div>
 </div>
 
 
@@ -61,12 +61,14 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
   </div>
   <div class="panel-body">
 
-  <a href="https://parcoach.github.io/">PARCOACH</a> 2.2.0 is now available !
+  <a href="https://gitlab.inria.fr/parcoach/parcoach/-/releases">PARCOACH</a> 2.4.2 is now available !
 
   </div>
 
 
 </div>
+
+I am currently working part-time to take care of my son. Feel free to contact me, my response might just take a little longer than usual.
 
 </div>
 </div>

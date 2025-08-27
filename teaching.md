@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### 2024
 
-<h5><b>Fall 2023</b></h5>
+<h5><b>Fall 2024</b></h5>
 <td markdown="1">
 * Languages of parallelism (Teacher)
 	* Enseirb-Matmeca, 3rd year

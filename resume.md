@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2024) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
+You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2025) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
 
 
 
@@ -17,8 +17,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 **Current students**
 - **PhD**
 	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (Eviden)
+	- [2024-] Asia AUVILLE,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 - **Internship**
-	- [March 2023] Asia Auville,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 
 **Former students**
 
@@ -31,6 +31,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - **Engineer**
   - [2021-2022] Chiheb Sakka, co-supervised with Denis Barthou (Exacard Project)
 - **Internship**
+	- Asia Auville (Undergrad at Enseirb-Matmeca, 6 months internship in 2024) ,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux, 3 months internship in 2021 + 6 months internship in 2022)
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020, 2 months in 2022)
@@ -68,6 +69,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+- [Dec 2024] Tim Jammer, TU Darmstadt (reviewer)
+- [Dec 2024] Richard Satory, Eviden (member)
 - [Sept 2023] Andreas Thune, University of Oslo (reviewer)
 - [Jul 2023] Amaury Maillé, ENS Lyon (guest)
 - [Nov 2022] John Gilksberg, Université de Paris Saclay (member)
@@ -109,6 +112,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2025: BoF @SC
  - 2024: Cluster, <a href="https://correctness-workshop.github.io/2024/" target="_blank"> Correctness</a>, Compas, CC
  - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas
  - 2022: <a href="https://correctness-workshop.github.io/2022/" target="_blank"> Correctness</a>, ICCS, Compas 
@@ -151,7 +155,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  - Intervention at the Inria scientific days (JSI) in 2023
  - Responsible of the panel Cross-layer optimization at the Inria seminar in 2022
  - In charge of the popularization activities for the Inria Bordeaux Research Center (since 2021)
- - Member of the Commission de délégation (delegation, postdoc, cordi-s) (since 2019)
+ - Member of the Commission de délégation (delegation, postdoc, cordi-s) (2019-2025)
  - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national (2018-2023)
  </td>
    </div>
