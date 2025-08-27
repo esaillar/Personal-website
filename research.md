@@ -23,7 +23,6 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">MICROCARD</a> European project, H2020 - Participant in WP2 </p> 
 - <p> Plan de relance with Eviden </p>
    - <p> Vérifications des applications MPI-RMA (2022-2023) - PI, 72k€ </p> 
    - <p> Méthodes pour l'analyse des pannes reposant sur des techniques de types statistical learning (2022-2024) - coPI, 47k€ </p> 
@@ -38,6 +37,7 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
+- <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">MICROCARD</a> European project, H2020 - Participant in WP2 </p> 
 - <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications, Inria associate team (2019-2022) - French PI, 10k€/year </p> 
 - <p> Exacard, ANR 2018 - Participant </p> 
 - <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016-2020) - Participant
@@ -55,6 +55,8 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 <a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a> </p>
 - <p> The MPI Bugs Initiative (MBI) is a framework that creates a MPI correctness benchmark suite and evaluates MPI verification tools. 
 <a href="https://gitlab.com/MpiBugsInitiative/MpiBugsInitiative" target="_blank">Gitlab repository</a> </p>
+- <p> MPI-BugBench is a benchmark suite to evaluate the classification quality of MPI correctness tools. 
+<a href="https://git-ce.rwth-aachen.de/hpc-public/mpi-bugbench" target="_blank">Gitlab repository</a> </p>
 </td>
   </div>
 </div>
