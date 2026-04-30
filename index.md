@@ -3,7 +3,11 @@ layout: page
 ---
 
 <div class="page-header row">
-<div class="col-sm-3 prof-picture"><img src="{{site.baseurl}}/resources/Inria-0525-012.png" title="photo"/></div>
+<!-- 
+<div class="col-sm-3 profile-pic-wrapper"><img src="{{site.baseurl}}/resources/Emma2.png" title="photo" class="profile-pic" /></div>
+<div class="col-sm-3 prof-picture"><img src="{{site.baseurl}}/resources/Emma2.png" title="photo"/></div>
+-->
+<div class="col-sm-3 prof-pic-wrapper"><img src="{{site.baseurl}}/resources/Emma2.png" title="photo" class="profile-pic" /></div>
 <div class="col-sm-9"><h1>Emmanuelle Saillard</h1></div>
 <div class="col-sm-9"><h4>Tenured research scientist (CRCN)</h4></div>
 <div class="col-sm-9"><h4> <a href="https://team.inria.fr/storm/" target="_blank">STORM</a> team, Inria of the university of Bordeaux</h4></div>

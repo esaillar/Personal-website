@@ -7,6 +7,20 @@ permalink: /teaching/
 
 # Teaching 
 
+### 2026
+
+<h5><b>Spring 2026</b></h5>
+<td markdown="1">
+* Convergence calcul haute performance et intelligence artificielle
+	* Inria Academy (<a href="https://www.inria-academy.fr/formation/convergence-hpc-et-ia/" target="_blank">link</a>)
+
+### 2025
+
+<h5><b>Fall 2025</b></h5>
+<td markdown="1">
+* Languages of parallelism (Teacher)
+	* Enseirb-Matmeca, 3rd year
+
 ### 2024
 
 <h5><b>Fall 2024</b></h5>

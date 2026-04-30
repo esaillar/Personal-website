@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2025) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2022) 
+You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> in english (last updated in 2025) or in <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">french</a> (last updated in 2024) 
 
 
 
@@ -16,13 +16,13 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (Eviden)
 	- [2024-] Asia AUVILLE,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 - **Internship**
 
 **Former students**
 
 - **PhD Students**
+	- [2022-2025] Radjasouria VINAYAGAME, co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank">Samuel Thibault</a> (Univ. of Bordeaux) and Van Man Nguyen (Eviden)
 	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS), now a manager at Capgemini
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA), now an engineer at Eviden
 - **Postdoc**
@@ -69,6 +69,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+- [Nov 2025] Nahuel PALUMBO, University of Lille (member)
 - [Dec 2024] Tim Jammer, TU Darmstadt (reviewer)
 - [Dec 2024] Richard Satory, Eviden (member)
 - [Sept 2023] Andreas Thune, University of Oslo (reviewer)
@@ -89,6 +90,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2026, <a href="https://c3po-workshop.github.io/2026/index" target="_blank">C3PO</a> (General chair) 
+ - 2025, <a href="https://c3po-workshop.github.io/2025/index" target="_blank">C3PO</a> 
  - 2024, <a href="https://c3po-workshop.github.io/2024/index" target="_blank">C3PO</a> (General chair), <a href="https://sc-protools-workshop.github.io/protools24/" target="_blank">Protools</a> (Co chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2023, <a href="https://eurompi23.github.io" target="_blank"> EuroMPI</a> (Publicity and Web Chair, Publisher Chair), <a href="https://sites.google.com/view/hpc-bugs-fest/home" target="_blank"> HPC Bugs Fest</a> (General chair)
  - 2022, <a href="https://icpp22.gitlabpages.inria.fr" target="_blank"> ICPP</a> (Local Arrangment Chair), <a href="https://project.inria.fr/sbac2022/" target="_blank">SBACPAD</a>, <a href="https://c3po-workshop.github.io/2022/index" target="_blank">C3PO</a> (Associate chair)
@@ -179,6 +182,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- the university of Perpignan in 2020
  - Member of the <a href="https://www.fondation-blaise-pascal.org" target="_blank"> Blaise Pascal Fondation</a>
  - Member of the executive board of the Société informatique de France (<a href="https://www.societe-informatique-de-france.fr" target="_blank">SIF</a>)
+ - VP mediation of the Société informatique de France
  - Coordinator and member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
  </td>
    </div>
