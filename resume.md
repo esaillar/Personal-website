@@ -18,6 +18,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - **PhD**
 	- [2024-] Asia AUVILLE,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 - **Internship**
+	- Maxime AUDEMA,  co-supervision with Van Man Nguyen (Bull) 
 
 **Former students**
 
@@ -115,6 +116,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - 2026: Cluster, <a href="https://eurompi.org" target="blank"> EuroMPI </a>, <a href="https://correctness-workshop.github.io/2026/" target="_blank"> Correctness</a> 
  - 2025: BoF @SC
  - 2024: Cluster, <a href="https://correctness-workshop.github.io/2024/" target="_blank"> Correctness</a>, Compas, CC
  - 2023: <a href="https://correctness-workshop.github.io/2023/" target="_blank"> Correctness</a>, Compas

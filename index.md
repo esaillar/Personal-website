@@ -71,8 +71,3 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
 
 
 </div>
-
-I am currently working part-time to take care of my son. Feel free to contact me, my response might just take a little longer than usual.
-
-</div>
-</div>
