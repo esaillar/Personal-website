@@ -10,7 +10,7 @@ permalink: /publications/
 
 <b> [<a href="https://dipsa-qub.github.io/ICS2026-webpage/" target="_blank">ICS 2026</a>] </b>
 <p markdown="1">
-C12. Asia Auville, Tim Jammer, Eric Petit, Pablo de Oliveira Castro, Emmanuelle Saillard, and Mihail Popov, "Harnessing MPI mutations for AI error detection". TO APPEAR
+C12. Asia Auville, Tim Jammer, Eric Petit, Pablo de Oliveira Castro, Emmanuelle Saillard, and Mihail Popov, "Harnessing MPI mutations for AI error detection". In Proceedings of the 40th ACM International Conference on Supercomputing (ICS '26). Association for Computing Machinery, New York, NY, USA, 1000–1013.
 </p>
 
 

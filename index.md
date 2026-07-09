@@ -28,7 +28,7 @@ In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research
 
 
 
-<div class="panel panel-info" markdown="1">
+<div class="panel panel-default" markdown="1">
   <div class="panel-heading">
     <h3 class="panel-title">Research Interests</h3>
   </div>
@@ -38,7 +38,7 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
 </div>
 
 
-<div class="panel panel-info" markdown="1">
+<div class="panel panel-default" markdown="1">
   <div class="panel-heading">
     <h3 class="panel-title"><span class="glyphicon glyphicon-envelope"></span> Contact Information</h3>
   </div>
@@ -59,13 +59,17 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
 
 <div class="col-xs-8 col-sm-8 col-md-4 col-lg-4 col-xl-4">
 
-<div class="panel panel-danger" markdown="1">
+<div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">News</h3>
+    <h3 class="panel-title">News and highlights</h3>
   </div>
   <div class="panel-body">
 
   <a href="https://gitlab.inria.fr/parcoach/parcoach/-/releases">PARCOACH</a> 2.4.2 is now available !
+  </div>
+
+  <div class="panel-body">
+  <b>ICS acceptante!</b> Check out the paper <a href="https://dl.acm.org/doi/10.1145/3797905.3807863">here</a>  
 
   </div>
 
