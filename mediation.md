@@ -51,3 +51,7 @@ Devant l’ampleur de la tâche, Numérobis demande à son ami Numéroter de l�
 <a href="https://pixees.fr/une-histoire-de-macons-et-de-parallelisme/" target="_blank"> Read the article in french </a>
 
 Download the <a href="{{site.baseurl}}/resources/Cartes.pdf" target="_blank">Cards </a> document and the document <a href="{{site.baseurl}}/resources/MurailleDEgypte.pdf" target="_blank">for animator</a> (all in french). Downlod the optional cards (coming soon). 
+
+### Timeline Femmes et numérique
+
+Coming soon...

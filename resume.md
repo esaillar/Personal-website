@@ -16,9 +16,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
+	- [2026-] Line Fremery,  co-supervision with <a href="https://dept-info.labri.fr/~thibault/" target="_blank"> Samuel Thibault </a> (Univ. of Bordeaux)
 	- [2024-] Asia AUVILLE,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 - **Internship**
-	- Maxime AUDEMA,  co-supervision with Van Man Nguyen (Bull) 
 
 **Former students**
 
@@ -32,6 +32,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - **Engineer**
   - [2021-2022] Chiheb Sakka, co-supervised with Denis Barthou (Exacard Project)
 - **Internship**
+	- Maxime AUDEMA,  co-supervision with Van Man Nguyen (Bull) 
 	- Asia Auville (Undergrad at Enseirb-Matmeca, 6 months internship in 2024) ,  co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a> (Inria)
 	- Jad El Karchi (Undergrad at Enseirb-Matmeca, 3 months internship in 2023), co-supervision with <a href="https://gateauaulait.github.io/mihail.popov/" target="_blank"> Mihail Popov </a>
 	- Pierre-Antoine Rouby (Undergrad at University of Bordeaux, 3 months internship in 2021 + 6 months internship in 2022)

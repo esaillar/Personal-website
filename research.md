@@ -23,9 +23,6 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> Plan de relance with Eviden </p>
-   - <p> Vérifications des applications MPI-RMA (2022-2023) - PI, 72k€ </p> 
-   - <p> Méthodes pour l'analyse des pannes reposant sur des techniques de types statistical learning (2022-2024) - coPI, 47k€ </p> 
 - <p> Inria's Exploratory Action <a href="https://www.inria.fr/fr/llm4dice"  target="_blank">LLM4DiCE</a>, Large Language Models for Detection and Correction of Errors (2024-2027) - scientific leader </p>
 </td>
   </div>
@@ -37,6 +34,9 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
+- <p> Plan de relance with Eviden </p>
+   - <p> Vérifications des applications MPI-RMA (2022-2023) - PI, 72k€ </p> 
+   - <p> Méthodes pour l'analyse des pannes reposant sur des techniques de types statistical learning (2022-2024) - coPI, 47k€ </p> 
 - <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">MICROCARD</a> European project, H2020 - Participant in WP2 </p> 
 - <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications, Inria associate team (2019-2022) - French PI, 10k€/year </p> 
 - <p> Exacard, ANR 2018 - Participant </p> 
@@ -70,11 +70,13 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 <div class="panel-group" id="accordion" markdown="1">
  <div class="panel panel-info">
   <div class="panel-heading">
-    <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"> Talks</a></h3>
+  <!--  <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"> Talks</a></h3> -->
+    <h3 class="panel-title"> Talks</h3>
   </div>
-  <div id="collapse2" class="panel-collapse collapse">
+<!--  <div id="collapse2" class="panel-collapse collapse"> -->
   <div class="panel-body">
 <td markdown="1">
+- Verification of HPC applications: leveraging LLMs and machine learning for MPI debugging, <a href="https://project.inria.fr/inriabrasil/ibw-hpc-2026/" target="_blank"> Inria-Brazil workshop on HPC 2026</a>
 - Latest Advancements in PARACOACH for MPI Code Verification, <a href="https://toolsworkshop.hlrs.de/2023/program.html" target="_blank">International Parallel Tools Workshop 2023</a>
 - MTV seminar (University of Bordeaux) - 2022
 - LLVM pour les nuls, CLAP seminar - 2022
@@ -85,11 +87,11 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 
 </td>
   </div>
-  </div>
+<!--  </div> -->
   </div>
 </div>
 
-
+<!--
 <div class="panel panel-danger" markdown="1">
   <div class="panel-heading">
     <h3 class="panel-title">Open Internship Positions (contact me if you are interested)</h3>
@@ -98,3 +100,4 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 	- None 
   </div>
 </div>
+-->
